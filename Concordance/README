@@ -1,0 +1,11 @@
+name: Ross Miller
+course: C SC 345 (Analysis of Discrete Structures)
+assignment: Concordance with a (2,5)-Tree (program 4)
+instructor: Lester McCann
+due date: April 29, 2010
+
+In this assignment, I had a write a program to build a concordance (also known as an index) from whichever file is passed in as an argument. At the end the program prints out the contents of the concordance. The concordance lists the paragraph and line number of every occurrence of each word. The words are sorted alphabetically, with one word per entry, and one entry per line. Within each entry, the occurrences are sorted from first to last. According to the assignment, the concordance must be created to use a custom-build (2,5)-tree as an underlying data structure. 
+
+The language I used is java
+To compile and run this program, just use `make`
+By default it will use the README file with which to build the concordance.

@@ -1,0 +1,7 @@
+To compile:
+  `javac ColumnSort.java`
+
+To run:
+  `java ColumnSort Integers.dat`
+
+  Where Integers.dat is a file containing only a mixture of integers and white space
